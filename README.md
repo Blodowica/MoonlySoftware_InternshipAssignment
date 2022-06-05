@@ -1,7 +1,7 @@
 # MoonlySoftware_InternshipAssignment
  
  
- This is my solution for the moonly internship test assignment, where I answer the followinfg questions using ReactJs
+ This is my solution for the internship test assignment for Moonly Software, where I answer the followinfg questions using ReactJs
  
  1. How many orders have been placed?
  2. Who spent the most money?
